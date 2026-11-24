@@ -272,21 +272,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   graphicsObject: {fileID: 357291895}
-  mouseSensitivity: 100
   playerBody: {fileID: 1019310152}
   playerCamera: {fileID: 1828139411}
   playerController: {fileID: 1019310151}
-  speed: 12
-  gravity: -19.62
-  jumpHeight: 3
   groundCheck: {fileID: 592107039}
   groundDistance: 0.4
   groundLayerMask:
     serializedVersion: 2
     m_Bits: 8
-  interactableLayerMask:
-    serializedVersion: 2
-    m_Bits: 64
+  walkSpeed: 3
+  sprintSpeed: 5
+  gravity: -19.62
+  jumpHeightMeters: 1.1
+  mouseDegreesPerPixel: 0.1
+  stickDegreesPerSecond: 150
+  vrSnapTurn: 1
+  snapTurnDegrees: 30
 --- !u!114 &1019310150
 MonoBehaviour:
   m_ObjectHideFlags: 0

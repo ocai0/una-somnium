@@ -198,9 +198,9 @@ namespace Somnium.Items
             lightGo.transform.SetParent(root, false);
             lightGo.transform.localPosition = new Vector3(0.3f, 0.35f, 0.1f);
             inspectLight = lightGo.AddComponent<Light>();
-            inspectLight.type = LightType.Point;
-            inspectLight.range = 2f;
-            inspectLight.intensity = 2f;
+            inspectLight.type = LightType.Directional;
+            inspectLight.range = .45f;
+            inspectLight.intensity = .35f;
             inspectLight.cullingMask = 1 << UIFactory.UILayer;
 
             root.gameObject.SetActive(false);

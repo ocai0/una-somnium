@@ -27646,27 +27646,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalScale.x
-      value: 16.94614
+      value: 0.1463122
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalScale.y
-      value: 16.94613
+      value: 0.14631212
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalScale.z
-      value: 16.94614
+      value: 0.1463122
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.03339839
+      value: -0.037
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.8939514
+      value: 0.74
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.012126562
+      value: -0.028
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3cf2566be71934b47bf66994b6774b47, type: 3}
       propertyPath: m_LocalRotation.w
@@ -52992,7 +52992,7 @@ MonoBehaviour:
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 10
-    m_MaxSize: 40
+    m_MaxSize: 110
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
