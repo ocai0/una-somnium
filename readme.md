@@ -25,3 +25,5 @@
 Pegar uma mecanica e sala e fazer ela por completo, vai fazendo e adicionando no jogo
 - Criar exterior e parte interna completamente, com modelos e texturas
 - Fazer o esquema de renderização do "Portal" para instanciar outras cenas em localizações diferentes
+
+https://docs.google.com/presentation/d/1zeAPx3w3HSJQYhvW1BJkDC5vfc6bZluJkU1nuuqXFwk/edit?usp=sharing
